@@ -28,10 +28,6 @@ java View
 - **Generate Maze Button:** Click to generate a new random maze and restart the DFS search.
 - **Arrow Keys:** Navigate through the DFS path manually (forwards and backward).
 
-## Screenshots
-
-Include screenshots of the application in action, showcasing the maze, DFS pathfinding, and any other relevant features.
-
 ## Code Overview
 
 - **View.java:** The main GUI class responsible for creating the window, handling user input, and managing the maze visualization.
