@@ -33,6 +33,8 @@ java View
 - **View.java:** The main GUI class responsible for creating the window, handling user input, and managing the maze visualization.
 - **DepthFirst.java:** Contains the DFS algorithm used for pathfinding.
 
+## Demo [Link](https://www.kapwing.com/videos/65a4e4a7793db9ac7d949d88)
+
 ## Dependencies
 
 The program uses Java Swing for the GUI.
