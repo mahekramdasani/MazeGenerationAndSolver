@@ -196,7 +196,7 @@ public class View extends JFrame {
             // draw the path list
             if (!path.isEmpty()) {
                 for (int p = 0; p < path.size(); p += 2) {
-                    if (p + 1 < path.size()) { // Ensure there are enough elements in the path list
+                    if (p+1 < path.size()) { // Ensure there are enough elements in the path list
                         int pathX = path.get(p);
                         int pathY = path.get(p + 1);
                         g.setColor(Color.GREEN);
